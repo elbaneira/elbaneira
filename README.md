@@ -112,6 +112,7 @@ Uno de mis focos ha sido llevar problemas reales de gestión hacia soluciones do
 
 [👉 Ver video demostrativo](https://youtu.be/Q9QxNap9yDg)
 
+
 Tecnologías: Power BI · DAX · Excel · Análisis de Datos · Automatización
 
 ---
