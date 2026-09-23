@@ -30,6 +30,16 @@
 
 ---
 
+### 📌 Proyectos Destacados
+
+- **### 📌 Proyectos Destacados
+
+- **[Sistema de Gestión de Mano de Obra y Nómina (SGMO)](https://github.com/elbaneira/Bootcamp-Full-Stack-Python-grupo-1/tree/main/AYUDANTIA/Proyecto%20-M%C3%B3dulo%203/mano_obra_nomina):** Sistema desarrollado en Python para la administración de registros de trabajadores, procesamiento de nómina y documentación laboral. 
+- **[Nombre del Proyecto 2](link-al-repositorio):** Dashboard / Sistema de [breve descripción]. *Tecnologías: Power BI, Python.*
+
+---
+
 ### 📫 Contacto
 
-- **LinkedIn:** [www.linkedin.com/in/elba-neira-tech](https://www.linkedin.com/in/elba-neira-tech)
+- **LinkedIn:** [www.linkedin.com/in/elba-neira-tech](https://www.linkedin.com/in/elba-neira-tech))
+- **Correo:** [elbaneira@gmail.com](elbaneira@gmail.com)
