@@ -139,6 +139,7 @@ Este perfil irá creciendo junto con mis proyectos y todo lo que vaya aprendiend
 ---
 
 Aprender a programar no ha sido solamente aprender código. Ha sido aprender a encontrar el camino para resolver un problema.
+
 Después de años en el mundo administrativo, he visto de cerca cuánto tiempo pueden consumir las tareas repetitivas, los procesos manuales y esos pequeños pasos que se traducen en cientos de clics al día. Para mí, la programación y la automatización representan una oportunidad de transformar esa experiencia: simplificar procesos, reducir tareas repetitivas y recuperar tiempo para dedicarlo a lo que realmente aporta valor.
 
 Porque automatizar no se trata solamente de hacer las cosas más rápido; también significa trabajar de una manera más eficiente, disminuir la carga de las tareas mecánicas y crear espacio para hacer mejor nuestro trabajo.
