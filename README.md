@@ -70,7 +70,9 @@ Desarrollo de dashboards interactivos y soluciones analíticas utilizando Power 
 ### 📫 Contacto
 
 - **LinkedIn:** [www.linkedin.com/in/elba-neira-tech](https://www.linkedin.com/in/elba-neira-tech)
-- **Correo:** [elbaneira@gmail.com](mailto:elbaneira@gmail.com)
+
+  ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=elbaneira.elbaneira)
+  
 ---
 
 Aprender a programar no ha sido solamente aprender código. Ha sido aprender a encontrar el camino para resolver un problema.
