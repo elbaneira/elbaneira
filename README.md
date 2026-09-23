@@ -46,6 +46,7 @@ Actualmente estoy profundizando mis conocimientos en Python, Django, bases de da
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 ---
 
 ### 🚀 Proyectos destacados
@@ -61,6 +62,7 @@ Este proyecto representa una de las razones principales por las que decidí prof
 Tecnologías: Python · Automatización · Gestión de datos
 
 ---
+
 2. 👥 Gestor Inteligente de Clientes — GIC
 
 Aplicación desarrollada en Python aplicando conceptos de Programación Orientada a Objetos.
@@ -111,7 +113,9 @@ Uno de mis focos ha sido llevar problemas reales de gestión hacia soluciones do
 [👉 Ver video demostrativo](https://youtu.be/Q9QxNap9yDg)
 
 Tecnologías: Power BI · DAX · Excel · Análisis de Datos · Automatización
+
 ---
+
 🌱 Actualmente aprendiendo
 
 Python · Django · Bases de Datos Relacionales · MySQL · Django ORM · Desarrollo Web
