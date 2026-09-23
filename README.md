@@ -1,6 +1,8 @@
 # ¡Hola! Soy Elba Neira 👋
 
-¡Bienvenida/o a mi perfil de GitHub! Soy **Administradora de Empresas** enfocada en el **Desarrollo Web Full-Stack y Análisis de Datos**. Me apasiona crear soluciones integrales, optimizar procesos con tecnología y transformar datos en información estratégica para la toma de decisiones.
+¡Bienvenida/o a mi perfil de GitHub! Estoy construyendo mi transición desde la administración y los datos hacia el desarrollo de software.
+Soy **Administradora de Empresas** enfocada en el **Análisis de Datos**. 
+Me apasiona crear soluciones integrales, optimizar procesos con tecnología y transformar datos en información estratégica para la toma de decisiones.
 
 ---
 
@@ -73,6 +75,6 @@ Desarrollo de dashboards interactivos y soluciones analíticas utilizando Power 
 
 Aprender a programar no ha sido solamente aprender código. Ha sido aprender a encontrar el camino para resolver un problema.
 
-Después de años en el mundo administrativo, he visto de cerca cuánto tiempo pueden consumir las tareas repetitivas, los procesos manuales y esos pequeños pasos que se traducen en cientos de clics al día. Para mí, la programación y la automatización representan una oportunidad de transformar esa experiencia: simplificar procesos, reducir tareas repetitivas y recuperar tiempo para dedicarlo a lo que realmente aporta valor.
+Después de años en el mundo administrativo, he visto de cerca cuánto tiempo pueden consumir las tareas repetitivas, los procesos manuales y esos pequeños pasos que se traducen en cientos de clics al día. Para mí, la programación y la automatización representan una oportunidad de transformar esa experiencia: simplificar procesos, reducir tareas repetitivas y recuperar tiempo para dedicarlo a lo que realmente aporta valor. Porque automatizar no se trata solamente de hacer las cosas más rápido; también significa trabajar de una manera más eficiente, disminuir la carga de las tareas mecánicas y crear espacio para hacer mejor nuestro trabajo.
 
-Porque automatizar no se trata solamente de hacer las cosas más rápido; también significa trabajar de una manera más eficiente, disminuir la carga de las tareas mecánicas y crear espacio para hacer mejor nuestro trabajo.
+
