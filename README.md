@@ -42,4 +42,4 @@
 ### 📫 Contacto
 
 - **LinkedIn:** [www.linkedin.com/in/elba-neira-tech](https://www.linkedin.com/in/elba-neira-tech))
-- **Correo:** [elbaneira@gmail.com](elbaneira@gmail.com)
+- **Correo:** <mailto:elbaneira@gmail.com>
