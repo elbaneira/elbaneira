@@ -7,7 +7,7 @@ Me apasiona crear soluciones integrales, optimizar procesos con tecnología y tr
 ---
 
 🌐 **Portafolio Interactivo (Terminal UI):** 
-👉 [https://elbaneira.github.io/tu-repo/](https://elbaneira.github.io/tu-repo/) *(Prueba escribir comandos como `proyectos`, `e2` o `cat sobre_mi`)
+👉 [https://elbaneira.github.io/portafolio-Web/](https://elbaneira.github.io/portafolio-Web/)) *(Prueba escribir comandos como `proyectos`, `e2` o `cat sobre_mi`)
 
 ---
 
