@@ -6,6 +6,11 @@ Me apasiona crear soluciones integrales, optimizar procesos con tecnología y tr
 
 ---
 
+🌐 **Portafolio Interactivo (Terminal UI):** 
+👉 [https://elbaneira.github.io/tu-repo/](https://elbaneira.github.io/tu-repo/) *(Prueba escribir comandos como `proyectos`, `e2` o `cat sobre_mi`)
+
+---
+
 ### 🚀 Sobre mí
 
 - 💻 Desarrolladora en formación continua (**Python, Django, JavaScript, SQL, HTML/CSS**).
